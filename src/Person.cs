@@ -8,7 +8,7 @@ namespace GitTest
 
         public override string ToString()
         {
-            return String.Empty;
+            return Name;
         }
     }
 }
